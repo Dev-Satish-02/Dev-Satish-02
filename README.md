@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Satish</h1>
-🔭 I’m currently building financial AI systems at Callistra AI, working on large-scale document processing and low-latency services.<br>🤝 I’m open to collaborating on a wide range of projects across full-stack applications, Agentic AI, and scalable product development.<br>🌱 I’m currently deepening my understanding of AWS-based architectures while pursuing engineering at BITS Pilani.
+🔭 I’m currently building financial AI systems at Callistra AI, working on large-scale document processing<br>🤝 I’m open to collaborating on a wide range of projects from full-stack applications to Agentic AI<br>🌱 I’m currently deepening my understanding of AWS-based architectures while pursuing engineering at BITS Pilani.
 
 # Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.8s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-satish) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devsatish08@gmail.com) 
